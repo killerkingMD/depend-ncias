@@ -1,1 +1,1 @@
-./install_script.sh￼Enter
+./install_script.sh  dê Enter
